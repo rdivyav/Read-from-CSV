@@ -27,8 +27,6 @@ print("No. of Rows:",len(df.axes[0]))
 print("No. of Columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-
 ![Screenshot 2024-01-02 215230](https://github.com/rdivyav/Read-from-CSV/assets/148604723/43bcbe8d-2aaa-4e6c-96ab-d79ffd2e0cad)
-
 ## RESULT:  
 Thus reading content from csv file is completed successfully
